@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="copyright">All rights reserved to Imdb and Cineworld Cinemas 2023 ©</string>
+    <string name="tvSelect">Select seats:</string>
+    <string name="tvTime">Running time:</string>
+    <string name="tvStar">Starring:</string>
+    <string name="tvSeatsRemaining">%1$d Seats remaining</string>
+    <string name="sold_out">Sold out</string>
+    <string name="seats_selected">%1$d Seats selected</string>
+    <string name="adImage">Ad image</string>
+    <string name="tvBadge">Filling Fast</string>
+
+
+
+</resources>

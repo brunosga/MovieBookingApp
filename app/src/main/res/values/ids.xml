@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivImage" type="id" />
+    <item name="tvTitle" type="id" />
+    <item name="tvCertification" type="id" />
+    <item name="tvStar" type="id" />
+    <item name="tvStarring" type="id" />
+    <item name="tvTime" type="id" />
+    <item name="tvRunningTime" type="id" />
+    <item name="tvSeatsRemaining" type="id" />
+    <item name="ivSeat" type="id" />
+    <item name="tvNum" type="id" />
+    <item name="tvDescription" type="id" />
+    <item name="tvSelect" type="id" />
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="tvSeatsSelected" type="id" />
+</resources>
