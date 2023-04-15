@@ -54,4 +54,4 @@ I personally would not use it because its something that is not gonna match with
 
 ## APK Releases
 
-1. Add your release name and update this [Link]()
+1. MovieApp [Link](https://github.com/brunosga/MovieBookingApp/releases/tag/MovieApp)
